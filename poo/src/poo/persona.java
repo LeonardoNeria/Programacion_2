@@ -23,6 +23,6 @@ public class persona {
     
     // Metodo
     public void mostrarEdad() {
-        System.out.println("Tengo " + edad + " an   os");
+        System.out.println("Tengo " + edad + " años");
     }
 }

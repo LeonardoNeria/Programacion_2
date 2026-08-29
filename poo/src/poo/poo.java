@@ -4,7 +4,7 @@ package poo;
  *
  * @author lexna
  */
-public class Poo {
+public class poo {
 
     /**
      * @param args the command line arguments
